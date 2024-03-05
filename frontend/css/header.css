@@ -1,0 +1,39 @@
+.title {
+    font-size: 24px;
+}
+
+.flex {
+    display: flex;
+}
+
+.header {
+    background-color: white;
+}
+
+.header-container {
+    padding-top: 10px;
+    padding-bottom: 12px;
+    max-width: 1355px;
+    display: flex;
+    align-items: center;
+}
+
+.form {
+    width: 100%;
+}
+
+.logo {
+    margin-right: 53px;
+}
+
+.input {
+    height: 44px;
+    width: 100%;
+    max-width: 581px;
+    padding-left: 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(51, 51, 51, 0.2);
+    border-image: initial;
+}
+
